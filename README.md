@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @sahilgupta0
-- 👀 I’m interested in web_dev
-- 🌱 I’m currently learning css_js_python
-- 💞️ I’m looking to collaborate on web_dev_project
 - 📫 How to reach me Instagram:- sa_hilgupta0
 
 <!---
