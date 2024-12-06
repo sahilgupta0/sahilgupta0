@@ -21,12 +21,12 @@
 ### 🌐 Connect with Me:
 <p align="center">
   <a href="https://twitter.com/sa_hilgupta0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sa_hilgupta0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/sahilgupta0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sahilgupta0/" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaggle.com/sahilgupta9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/sahilgupta9" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/sahil19189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/sahil19189/" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/sa_hilgupta0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/sa_hilgupta0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/u/sa_hilgupta0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/sa_hilgupta0/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/geeksforgeeks.org/user/sahilroy1918912/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks.org/user/sahilroy1918912/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahilgupta0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sahilgupta0/" height="30" width="40" /></a>
+<a href="https:/kaggle.com/sahilgupta9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/sahilgupta9" height="30" width="40" /></a>
+<a href="https://facebook.com/sahil19189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/sahil19189/" height="30" width="40" /></a>
+<a href="https://instagram.com/sa_hilgupta0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/sa_hilgupta0" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/sa_hilgupta0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/sa_hilgupta0/" height="30" width="40" /></a>
+<a href="https://geeksforgeeks.org/user/sahilroy1918912/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks.org/user/sahilroy1918912/" height="30" width="40" /></a>
 </p>
 
 ---
