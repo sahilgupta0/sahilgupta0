@@ -39,14 +39,11 @@
 ---
 
 ### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta0&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta0&theme=radical&hide_border=false" alt="GitHub Streak" /> -->
-<!--   ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta0&theme=blue-green&hide_border=false)<br/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilgupta0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilgupta0&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta0&theme=blue-green&hide_border=false)<br/>
+![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgupta0&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
