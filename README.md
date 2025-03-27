@@ -41,9 +41,9 @@
 ### 📊 My GitHub Stats:
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilgupta0&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta0&theme=blue-green&hide_border=false)<br/>
-![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgupta0&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilgupta0&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta0&theme=radical&hide_border=false)<br/>
+![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgupta0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
